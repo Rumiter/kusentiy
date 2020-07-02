@@ -1,4 +1,4 @@
 # this script prints "Hello world!"
 
-echo Hello World!
+echo Hello Kitty!
 
